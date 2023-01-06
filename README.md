@@ -180,7 +180,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
+   <td><a href="https://docs.google.com/presentation/d/1B0luhf2eWFIMaofY1mm2oT5jBZlg7RydRpV5wR1KwgQ/edit?usp=sharing">[Presentation] Conda</a>
 <p>
 <br>
 <p>
