@@ -275,17 +275,17 @@ Weekly Retro
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
 <p>
-<strong>Week 2 | Day1 `s Key Objectives:</strong>
+<strong>Week 2 | Day1 Key Objectives:</strong>
 <ul>
 
-<li>Pandas contd(filtering,applying functions, concatenating, IO operations)
+<li>Pandas continued (filtering,applying functions, concatenating, IO operations)
 
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
 
 <p>
-<strong>Week 2 | Day2 `s Key Objectives:</strong>
+<strong>Week 2 | Day2 Key Objectives:</strong>
 <ul>
 
 <li>HealthCare For All Case Study
@@ -295,7 +295,7 @@ Weekly Retro
 <li>Statistics basics ( samples, probability, distributions, random variables, samples, measures of central tendency and dispersion).
 
 <p>
-<strong>Week 2 | Day3 `s Key Objectives:</strong>
+<strong>Week 2 | Day3 Key Objectives:</strong>
 <ul>
 
 <li>Correlation and correlation Matrix
@@ -305,7 +305,7 @@ Weekly Retro
 <li>Exploratory Data Analysis
 
 <p>
-<strong>Week 2 | Day4 `s Key Objectives:</strong>
+<strong>Week 2 | Day4 Key Objectives:</strong>
 <ul>
 
 <li>Data Pipelining
@@ -313,7 +313,7 @@ Weekly Retro
 <li>Linear Regression
 
 <p>
-<strong>Week 2 | Day5 `s Key Objectives:</strong>
+<strong>Week 2 | Day5 Key Objectives:</strong>
 <ul>
 
 <li>Weekly Recap
