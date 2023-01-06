@@ -36,7 +36,7 @@
   <tr>
    <td>Warm up
    </td>
-   <td>Lecture
+   <td>Lab Review/Lecture
    </td>
    <td>10 mins Break
    </td>
