@@ -190,11 +190,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
 <p>
-<a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
+<a href="https://docs.google.com/presentation/d/1jmBBwxCiNZPdeDFAmt_cHQ4GPrC91vkkMmA-kj40Zck/edit?usp=sharing">[Presentation] Python Built-In Data Structures</a>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Python_Basics/Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
 <p>
-<a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+<a href="https://docs.google.com/presentation/d/1KBqPtwqEiQ-fwAWjGGZADZd6bGjhtfw_F3ltnOGd77k/edit?usp=sharing">[Presentation] Python String Operations</a>
 <p>
 <br>
 <p>
@@ -206,13 +206,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
+   <td><a href="https://docs.google.com/presentation/d/1QDrvALgEfzewKlyI5t8Iq5mieXNxb1nQl8OdD7UV9yw/edit?usp=sharing">[Presentation] Python Functions</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Python_Basics/Python_Functions.ipynb">[Notebook] Python Functions</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1BlFRUmZu_bJffAmCBCzUYYaVPuFBLHw4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
+<a href="https://docs.google.com/presentation/d/1UG5c6XPeEUmwHt4fh2lA6AzH1G7kcqjbF_pDZet6OHE/edit?usp=sharing">[Presentation] Python Lists Comprehension</a>
 <p>
 <br>
 <p>
@@ -220,19 +220,19 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
+   <td><a href="https://docs.google.com/presentation/d/1ex3m_Gmrfne_l8oQqFjpwkWfCtQTr3co-pdtKVAiGPY/edit?usp=sharing">[Presentation] Programming Tips</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1C3TlWUS5hunm5tvZmPq3YhXmK8DkNk-p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Code Simplicity</a>
+<a href="https://docs.google.com/presentation/d/1XrWw-KkaokRkYKD283XkIpRrhG6z37ldDASgaCLbg1k/edit?usp=sharing">[Presentation] Programming Code Simplicity</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1EqL2TSH3ux0OsiKLrIYcBfO1qlf0QWHk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Lambda Function</a>
+<a href="https://docs.google.com/presentation/d/1fupIWSyoyC_VunN2HRWOyRpO5CrRAmRBurW99WZFUHs/edit?usp=sharing">[Presentation] Lambda Function</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1EMSWjJHqBVNWkunuFt7yUyJUxKSynVwe/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Intro</a>
+<a href="https://docs.google.com/presentation/d/1AuMxc8qBaTQwLv-b6_xFk-0kclhznaNf_ayS7uEgdC4/edit?usp=sharing">[Presentation] Data Analysis Intro</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1EZDsd9Kndc_8w7xPaAxbgUY5W_L-oo0d/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
+<a href="https://docs.google.com/presentation/d/1IHtD509p-WdOiUUq8HsVA8ogC3s-Bo9SYw4kbSjEUMA/edit?usp=sharing">[Presentation] Data Analysis Process</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Numpy Arrays</a>
+<a href="https://docs.google.com/presentation/d/1OpXH8ovA7r9KeiccF7xzi05tCxSQbPgC1xyJ_8y6dPk/edit?usp=sharing">[Presentation] Numpy Arrays</a>
 <p>
 <br>
 <p>
@@ -246,11 +246,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1HFfUSfhowaFVw277Vnqg4u1XNXEpJVaH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map</a>
+   <td><a href="https://docs.google.com/presentation/d/14eFigQn9W98c3-KMQKOrGCZfEp15p-8sEGKRVR_V_K0/edit?usp=sharing">[Presentation] Python Map</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1G5DH7ILkp8fGjQgf094EPAcETbfBOurW/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
+<a href="https://docs.google.com/presentation/d/1M9Feurk2rQfLSDfhSBZl2f4fJOGcWjahHQ2F-MWdT7w/edit?usp=sharing">[Presentation] Intro to Pandas</a>
 <p>
 <br>
 <p>
