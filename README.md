@@ -146,7 +146,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1kedwx1w3LvYm5sBRXzpCJR14fs9hhE9UzfQOAJc5POE/edit?usp=sharing">[Presentation] Intro</a>
+   <td><a href="https://docs.google.com/presentation/d/1Kg4LAjE1oDtG-FLdQSaR1hecYwiMX_5-jP9tt7QHlIU/edit?usp=sharing">[Presentation] Intro</a>
 <p>
 <br>
 <p>
