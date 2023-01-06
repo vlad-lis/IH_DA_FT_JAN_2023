@@ -372,11 +372,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
+   <td><a href="https://docs.google.com/presentation/d/1FLmgMD_IGWTqscK4itzUi9Qe8B6GHL8tBv3QBeHEpq0/edit?usp=sharing">[Presentation] Correlation of Numerical Features</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1SpJogytP9jYR7WMnkawTKJ8mzgZ9WUt-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
+<a href="https://docs.google.com/presentation/d/1k_J8tSdbqMLGjRhdJyBDXihFsGZnHSuQHAIAud8ipng/edit?usp=sharing">[Presentation] EDA with plotting</a>
 <p>
 <br>
 <p>
@@ -404,7 +404,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1G3gbFpluZn4FDm8Y-Rq_WRXA609R3UNK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
+   <td><a href="https://docs.google.com/presentation/d/1mJ4YshSRjHqRMqoudwPGc38sS-TpXC5A5IImibLvdBw/edit?usp=sharing">[Presentation] Pandas Joining, Grouping</a>
 <p>
 <br>
 <p>
