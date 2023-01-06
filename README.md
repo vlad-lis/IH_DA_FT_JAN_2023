@@ -154,7 +154,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1dFYafjz3IV5pCaH-nNIeWKVeAjwfmhFn47S9ZrxE2pg/edit?usp=sharing">[Presentation] Git</a>
 <p>
-<a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
+<a href="https://docs.google.com/presentation/d/1aun46umuf1hrXn5SfzzpvPNurrHeu3pODn1Jpm8_27o/edit?usp=sharing">[Presentation] Jupyter Notebooks</a>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
 <p>
