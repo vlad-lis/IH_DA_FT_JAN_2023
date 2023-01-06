@@ -65,7 +65,7 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
-<strong>Week 1 | Day5 `s Key Objectives:</strong>
+<strong>Week 1 | Day5 Key Objectives:</strong>
 <ul>
 
 <li>Map function
@@ -75,7 +75,7 @@
 <li>Weekly Recap
 
 <p>
-<strong>Week 1 | Day4 `s Key Objectives:</strong>
+<strong>Week 1 | Day4 Key Objectives:</strong>
 <ul>
 
 <li>Programming Tips and coding efficiency.
@@ -87,7 +87,7 @@
 <li>Numpy Arrays
 
 <p>
-<strong>Week 1 | Day3 `s Key Objectives:</strong>
+<strong>Week 1 | Day3 Key Objectives:</strong>
 <ul>
 
 <li>Python functions
@@ -97,7 +97,7 @@
 <li>Pre-work review
 
 <p>
-<strong>Week 1 | Day2 `s Key Objectives:</strong>
+<strong>Week 1 | Day2 Key Objectives:</strong>
 <ul>
 
 <li>Conda: Package and Environment Manager
@@ -107,7 +107,7 @@
 <li>Python String Operations
 
 <p>
-<strong>Week 1 | Day1 `s Key Objectives:</strong>
+<strong>Week 1 | Day1 Key Objectives:</strong>
 <ul>
 
 <li>Housekeeping Issues and Bootcamp Expectation
@@ -445,7 +445,7 @@ Weekly Retro
   <tr>
    <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
 <p>
-<strong>Week 3 | Day 5 `s Learning Objectives:</strong>
+<strong>Week 3 | Day 5 Learning Objectives:</strong>
 <ul>
 
 <li>Business Intelligence
@@ -455,7 +455,7 @@ Weekly Retro
 <li>Weekly Recap
 
 <p>
-<strong>Week 3 | Day 4 `s Learning Objectives:</strong>
+<strong>Week 3 | Day 4 Learning Objectives:</strong>
 <ul>
 
 <li>Having clause
@@ -469,13 +469,13 @@ Weekly Retro
 <li>Intro Tableau
 
 <p>
-<strong>Week 3 | Day 3 `s Learning Objectives:</strong>
+<strong>Week 3 | Day 3 Learning Objectives:</strong>
 <ul>
 
 <li>Subqueries
 
 <p>
-<strong>Week 3 | Day 2 `s Learning Objectives:</strong>
+<strong>Week 3 | Day 2 Learning Objectives:</strong>
 <ul>
 
 <li>ERDs
@@ -483,7 +483,7 @@ Weekly Retro
 <li>Joins
 
 <p>
-<strong>Week 3 | Day 1 `s Learning Objectives:</strong>
+<strong>Week 3 | Day 1 Learning Objectives:</strong>
 <ul>
 
 <li>Relational Databases
@@ -605,7 +605,7 @@ Weekly Retro
   <tr>
    <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
 <p>
-<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 5 Learning Objectives:</strong>
 <ul>
 
 <li>Hypothesis Testing
@@ -615,7 +615,7 @@ Weekly Retro
 <li>Recap
 
 <p>
-<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 4 Learning Objectives:</strong>
 <ul>
 
 <li>Model Validation
@@ -627,7 +627,7 @@ Weekly Retro
 <li>Hypothesis Testing
 
 <p>
-<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 3 Learning Objectives:</strong>
 <ul>
 
 <li>Linear Regression.
@@ -635,7 +635,7 @@ Weekly Retro
 <li>Model Validation.
 
 <p>
-<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 2 Learning Objectives:</strong>
 <ul>
 
 <li>Linear Regression.
@@ -643,7 +643,7 @@ Weekly Retro
 <li>Model Validation.
 
 <p>
-<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<strong>Week 4 | Day 1 Learning Objectives:</strong>
 <ul>
 
 <li>Storytelling with Data
@@ -830,13 +830,13 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td colspan="5" ><strong><h2>Week 6</h2></strong>
 <p>
-<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
+<strong>Week 6 | Day 5 Learning Objectives:</strong>
 <ul>
 
 <li>Working on the product
 
 <p>
-<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
+<strong>Week 6 | Day 4 Learning Objectives:</strong>
 <ul>
 
 <li>Unsupervised Learning
@@ -846,7 +846,7 @@ It is Friday!! 🥳😎✌️
 <li>Saving/Loading Model using Pickle
 
 <p>
-<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
+<strong>Week 6 | Day 3 Learning Objectives:</strong>
 <ul>
 
 <li>APIs.
@@ -858,7 +858,7 @@ It is Friday!! 🥳😎✌️
 <li>Restful APIs
 
 <p>
-<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
+<strong>Week 6 | Day 2 Learning Objectives:</strong>
 <ul>
 
 <li>Web Scraping multiple pages
@@ -866,7 +866,7 @@ It is Friday!! 🥳😎✌️
 <li>Python modules
 
 <p>
-<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
+<strong>Week 6 | Day 1 Learning Objectives:</strong>
 <ul>
 
 <li>Git ignore
@@ -988,7 +988,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td colspan="5" ><strong><h2>Week 7</h2></strong>
 <p>
-<strong>Week 7 | Day 5 `s Learning Objectives:</strong>
+<strong>Week 7 | Day 5 Learning Objectives:</strong>
 <ul>
 
 <li>Random Forest
@@ -1000,7 +1000,7 @@ It is Friday!! 🥳😎✌️
 <li>Recap
 
 <p>
-<strong>Week 7 | Day 4 `s Learning Objectives:</strong>
+<strong>Week 7 | Day 4 Learning Objectives:</strong>
 <ul>
 
 <li>Cross Validation
@@ -1010,13 +1010,13 @@ It is Friday!! 🥳😎✌️
 <li>Bias and Variance Tradeoff
 
 <p>
-<strong>Week 7 | Day 3 `s Learning Objectives:</strong>
+<strong>Week 7 | Day 3 Learning Objectives:</strong>
 <ul>
 
 <li>Decision Trees
 
 <p>
-<strong>Week 7 | Day 2 `s Learning Objectives:</strong>
+<strong>Week 7 | Day 2 Learning Objectives:</strong>
 <ul>
 
 <li>KNN
@@ -1026,7 +1026,7 @@ It is Friday!! 🥳😎✌️
 <li>Evaluating Classification models
 
 <p>
-<strong>Week 7 | Day 1 `s Learning Objectives:</strong>
+<strong>Week 7 | Day 1 Learning Objectives:</strong>
 <ul>
 
 <li>Feature Selection
@@ -1178,7 +1178,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td colspan="5" ><strong><h2>Week 8</h2></strong>
 <p>
-<strong>Week 8 | Day 1 `s Learning Objectives:</strong>
+<strong>Week 8 | Day 1 Learning Objectives:</strong>
 <ul>
 
 <li>Agile
