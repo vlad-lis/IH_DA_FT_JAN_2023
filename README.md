@@ -256,7 +256,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1HFWlAOXd9gRMR7i880iwVQao-OB8N4KF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
+<a href="https://docs.google.com/presentation/d/1OkpxrDnf3TF4hUDzXa8ZxFuz-JbQjfcXNSCkrItjyBw/edit?usp=sharing">Weekly Recap</a>
 <p>
 Weekly Retro
 <p>
