@@ -1061,7 +1061,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
+<a href="https://docs.google.com/presentation/d/1Sjn4NBWYOAXx6xWGUkh0k9w4mDQTT073fsbxrN-oErg/edit?usp=sharing">[Presentation] Feature Selection</a>
 <p>
 <br>
 <p>
@@ -1079,15 +1079,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
+   <td><a href="https://docs.google.com/presentation/d/1dJcP7kXvI8qJ3iuPoj24k_ghSaNgnzylaj1EzQAzIhA/edit?usp=sharing">[Presentation] KNN</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+<a href="https://docs.google.com/presentation/d/1cCPsyVtgGZsuHoxCj4kKCAjQJlsp4ApcILFLoapGywE/edit?usp=sharing">[Presentation] Logistic Regression</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1e1kUeclxo7OUaRBc0-rZsSdKIrbd_Yjc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Evaluating Classification Models</a>
+<a href="https://docs.google.com/presentation/d/183FItwGm3fc9yTRR6neicS6XVI0m_o1LBKek_bMlZII/edit?usp=sharing">[Presentation] Evaluating Classification Models</a>
 <p>
 <br>
 <p>
@@ -1101,7 +1101,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
+   <td><a href="https://docs.google.com/presentation/d/1J31wU0za-DoGOqBVaD7uqC1E9kWSz3-TWOys55trIyA/edit?usp=sharing">[Presentation] Decision Trees</a>
 <p>
 <br>
 <p>
@@ -1111,11 +1111,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
+   <td><a href="https://docs.google.com/presentation/d/1TLksCZKyo_NxtMMUoCHHDMnjaFDp7138QrCEYXD_tLo/edit?usp=sharing">[Presentation ] Cross Validation</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
+<a href="https://docs.google.com/presentation/d/19lH2LEkCVUBbnKWSvY-rqef3fVjFfKjdTSY3V4DE-uA/edit?usp=sharing">[Presentation] Bias & Variance</a>
 <p>
 <br>
 <p>
@@ -1137,11 +1137,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<a href="https://docs.google.com/presentation/d/1ghyEo24ttcHZprZfU1x4u5xtWo_xwDPHf5FNOHehnLg/edit?usp=sharing">[Presentation] ML Frequent Problems</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
+<a href="https://docs.google.com/presentation/d/1cgfXGznhhHyTY-4F4jRGo4fqZ943HxUBzpRRDSe-uiU/edit?usp=sharing">[Presentation] Ensemble Methods</a>
 <p>
 <br>
 <p>
@@ -1207,7 +1207,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
+   <td><a href="https://docs.google.com/presentation/d/1yfDidfVVYUlNzY_mbV7DtQaSrUkx-AKuRQB56tkzuyk/edit?usp=sharing">[Presentation] Agile/ Project Management</a>
 <p>
 <br>
 <p>
@@ -1215,7 +1215,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1-stHAzqBlIHBCQCQKlzifGXWlkAGgDFl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Natural Language Processing</a>
+<a href="https://docs.google.com/presentation/d/1LwHs1TGLQW5F5dqVw5E9egv5eVUN8t5g79rLwvGRLf0/edit?usp=sharing">[Presentation] Natural Language Processing</a>
 <p>
 <br>
 <p>
