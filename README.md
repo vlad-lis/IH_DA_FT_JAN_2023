@@ -516,7 +516,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Relational Databases</a>
+   <td><a href="https://docs.google.com/presentation/d/1e4YgDOHtmMC1xrWsCC9cKuCyKxxPmctk0Ip_ruOfVVc/edit?usp=sharing">[Presentation] Relational Databases</a>
 <p>
 <br>
 <p>
@@ -526,7 +526,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Joins & ERD</a>
+   <td><a href="https://docs.google.com/presentation/d/1W2cFbuvvTffAPWqsvmx0-L_zq--KXUUvItyHC22U4sk/edit?usp=sharing">[Presentation] Joins & ERD</a>
 <p>
 <br>
 <p>
@@ -540,7 +540,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1Xf2jYhZbkTzbKsEB-cfMcU1hNNsFD32E/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] SQL Sub Queries</a>
+<a href="https://docs.google.com/presentation/d/1PKCkTHA3VJc1eK1uASNFEGcjQIBpZGNoYtNW8WwgInY/edit#slide=id.g1c9251237d3_2_231">[Presentation] SQL Sub Queries</a>
 <p>
 <br>
 <p>
@@ -550,15 +550,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
+<a href="https://docs.google.com/presentation/d/1CiiNggawX0KFfYNJYoc98LjmZT-_g86P3WZecPw7MPk/edit#slide=id.p">[Presentation] Data Warehousing</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1XtSNJEuemapwNXiiCxEN19kP3zqLaYq3/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Temporary Table/ Views</a>
+<a href="https://docs.google.com/presentation/d/1GPn_6Vl4PUO4gGyOkVd9rolDf7SZ_ftGksQ0GH8ZSO0/edit#slide=id.p">[Presentation] Temporary Table/ Views</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1_u6IJAzdUadrMM-yT6mwNYVi1gUMqXfq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
+<a href="https://docs.google.com/presentation/d/1zg-tjLvANo7r847S_11XGlo7x74u--GfeyF9b0uPBpA/edit?usp=sharing">[Presentation] Intro to Tableau </a>
 <p>
 <br>
 <p>
@@ -568,11 +568,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1_r3eRSgP68AXpAIISjXao9lT90bdgjYx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
+   <td><a href="https://docs.google.com/presentation/d/1MdUfA565cyS3f0pzfeaOeKBQPyCDynWDq_OTN2RXkKE/edit?usp=sharing">[Presentation] Tableau </a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1WDyk0w4fcgvr2gV5laFpdQuswe6dGfNJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Business Intelligence</a>
+<a href="https://docs.google.com/presentation/d/1-xlqXGBktMvlpAv3dq4n0SzilhIYou0jRTGdF283HDc/edit?usp=sharing">[Presentation] Business Intelligence</a>
 <p>
 <br>
 <p>
