@@ -680,21 +680,21 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1SGiHOxZ0IjS_OMiwNUk1x8XJC6EEmbEi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
+   <td><a href="https://docs.google.com/presentation/d/1c1oC44muF_BJ_1aJJzLo3-dquRsiPDrgYa37JBayR7I/edit?usp=sharing">[Presentation] Data Visualization</a>
 <p>
-<br> <a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
+<br> <a href="https://docs.google.com/presentation/d/1x8ssvKYH6vYfAwZpcORHEWxyZPkVWNYN3TBWPoKjmK8/edit?usp=sharing">[Presentation] Storytelling with Data]</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
+<a href="https://docs.google.com/presentation/d/1aTldSiT9xSBLAmY1bY2nzrH56-d-JFpMEPADgIjNbd4/edit?usp=sharing">[Presentation] Intro to Machine Learning</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
+<a href="https://docs.google.com/presentation/d/1ce4WzP4gPQodkYi4zRzJlE0nC1aL07tDboSZ6ewunls/edit?usp=sharing">[Presentation] Probability Distributions</a> 
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1fwT47gmfYEzEmlbIDJNf28h-upLXKSfkCIZG8ZelxFU/edit?usp=sharing">[Presentation] Data Processing</a>
 <p>
 <br>
 <p>
@@ -704,7 +704,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
+   <td><a href="https://docs.google.com/presentation/d/1pkcDSqwrQprqy2CH1DK4MwIUTdEtyL1THbbCn9SrsQs/edit?usp=sharing">[Presentation] Linear Regression</a>
 <p>
 <br>
 <p>
@@ -714,7 +714,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
+   <td><a href="https://docs.google.com/presentation/d/1pkcDSqwrQprqy2CH1DK4MwIUTdEtyL1THbbCn9SrsQs/edit?usp=sharing">[Presentation] Improving Model Accuracy</a>
 <p>
 <br>
 <p>
@@ -724,11 +724,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
+   <td><a href="https://docs.google.com/presentation/d/1dgspDn-tOqRjcJK6YN-SZWPZLHkMrAvSduj6iqqXxf4/edit?usp=sharing">[Presentation] Sampling Distributions </a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
+<a href="https://docs.google.com/presentation/d/1b_B31FIOojVdTU5tZrZ6ixoF_6bQGk3M_nPdRE0KO8Y/edit?usp=sharing">[Presentation] Hypothesis Testing</a>
 <p>
 <br>
 <p>
