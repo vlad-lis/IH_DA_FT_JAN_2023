@@ -907,7 +907,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Web Scraping</a>
+<a href="https://docs.google.com/presentation/d/16mTAbrd6upq2UGyBtCmhsTunJKcvIAi2kATQeWVxNV0/edit?usp=sharing">[Presentation] Web Scraping</a>
 <p>
 <br>
 <p>
@@ -919,7 +919,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
+<a href="https://docs.google.com/presentation/d/1XKJnjuI97cLBHmlH1ihTkldskCv6HOZQY2GJ3uG70yA/edit?usp=sharing">[Presentation] Project Roadmap</a>
 <p>
 <br>
 <p>
@@ -935,11 +935,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
+   <td><a href="https://docs.google.com/presentation/d/1-L1RsIMYd8ddY3p3Sghu9DSqA8zkBCGYhSUM8IxoV5Y/edit?usp=sharing">[Presentation] APIs</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
+<a href="https://docs.google.com/presentation/d/1GvSch5MAvewIX2bl-Y-Jn_5z9bBeYHj7v4SjPxKwtb8/edit?usp=sharing">[Presentation] Spotipy</a>
 <p>
 <br>
 <p>
@@ -953,11 +953,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
+   <td><a href="https://docs.google.com/presentation/d/1bbqadjMUCdxlvVcLdT-U3CX1fUykmSpDU4ovtvszXHw/edit?usp=sharing">[Presentation] Clustering using K-means</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
+<a href="https://docs.google.com/presentation/d/1eJP2JCPRRSpIB7gVr0CVhFjtmW8jUmEqvXEHeRQyD5k/edit?usp=sharing">[Presentation] K-Means with Scikit-Learn</a>
 <p>
 <br>
 <p>
