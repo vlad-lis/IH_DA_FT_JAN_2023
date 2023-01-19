@@ -10,4 +10,4 @@
 
 After every import of databases, you need to press the tiny refresh button in the SCHEMAS field.
 
-You can find the files in this folder. put it at best into a folder called "databases" with corresponding subfolders fo every db. The Czech bank database dumpfile is big file and you download it via this [link](https://github.com/raafat-hantoush/IH_DA_FT_JAN_2023/blob/main/Class_Materials/SQL_MYSQL/SQL_DATA_Dump_Bank.sql)
+You can find the files in this folder. put it at best into a folder called "databases" with corresponding subfolders fo every db. The Czech bank database dumpfile is a big file and you download it via this [link](https://drive.google.com/drive/folders/1OPz8gmOW4whkJPq98T8mRd91PpHegXGO?usp=sharing)
