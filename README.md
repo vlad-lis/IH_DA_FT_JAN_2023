@@ -753,6 +753,9 @@ It is Friday!! 🥳😎✌️
 Weekly Retro
 <p>
 <br>
+<a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
+<p>
+<br>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
 <p>
