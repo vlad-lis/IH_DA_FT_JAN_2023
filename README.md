@@ -745,15 +745,18 @@ It is Friday!! 🥳😎✌️
    <td><a href="https://kahoot.it/">Kahoot</a>
 <p>
 <br>
+<a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
+<p>
+<br>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Statistics/AB_Testing.ipynb">[Notebook] A/B Testing</a>
+<p>
+<br>
 <p>
 <a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
 <p>
 <br>
 <p>
 Weekly Retro
-<p>
-<br>
-<a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
 <p>
 <br>
 <p>
