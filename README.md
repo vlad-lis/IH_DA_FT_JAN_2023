@@ -408,7 +408,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Pandas/Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
 <p>
 <br>
 <p>
@@ -751,6 +751,9 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 Weekly Retro
+<p>
+<br>
+<a href="https://docs.google.com/presentation/d/1an2XtB3eGCGSjN4xAqdieNDsapJ4IvxL3K8ApQRWOV8/edit#slide=id.g205afdc590b_0_166">[Presentation] A/B Testing</a>
 <p>
 <br>
 <p>
