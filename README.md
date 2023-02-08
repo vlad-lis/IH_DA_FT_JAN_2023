@@ -935,10 +935,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-[Code Along] Python Modules with VS Code
-<p>
-<br>
-<p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1-L1RsIMYd8ddY3p3Sghu9DSqA8zkBCGYhSUM8IxoV5Y/edit?usp=sharing">[Presentation] APIs</a>
