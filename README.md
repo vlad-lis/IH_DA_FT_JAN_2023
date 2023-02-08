@@ -1063,7 +1063,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>{Song Recommender Presentations}
+   <td>
 <p>
 <br>
 <p>
