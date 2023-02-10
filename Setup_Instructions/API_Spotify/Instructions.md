@@ -1,5 +1,4 @@
 # Installation instructions for API's, webscraping...
-prepared by **Florian Titze**
 
 What we need:
 
