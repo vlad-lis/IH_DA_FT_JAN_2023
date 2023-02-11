@@ -881,7 +881,7 @@ It is Friday!! 🥳😎✌️
 
 <li>HTML, CSS
 
-<li>Beautiful Soap
+<li>Beautiful Soup
 </li>
 </ul>
 </li>
