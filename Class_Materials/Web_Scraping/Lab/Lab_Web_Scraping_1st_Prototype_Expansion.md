@@ -33,10 +33,6 @@ If you couldn't finish the first lab, use this time to go back there.
 - Do we build the interaction with the user in the same notebook as the web-scraping?
 - Where do we store the scraped songs?
 
-**Scheduling / Automation:**
-
-- Should we scrape billboard / wikipedia every time a user sends a request?
-
 **Testing:**
 
 - Does it work when you test it with a real user (a colleague)?
