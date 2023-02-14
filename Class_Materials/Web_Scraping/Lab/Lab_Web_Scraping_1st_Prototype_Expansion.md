@@ -12,7 +12,7 @@
   - their strategy, and
   - how your project fits into this context.
 
-  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
+  Re-read the business case and the e-mail from the CTO, and take a look at the flowchart.
 
 #### Instructions 
 
