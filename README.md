@@ -1077,7 +1077,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-[Weekly Retro]
+
 <p>
 <br>
 <p>
