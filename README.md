@@ -1073,7 +1073,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Data%20Processing/Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Data%20Processing/P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
 <p>
 <br>
 <p>
