@@ -3,7 +3,7 @@
 # Lab | Comparing regression models
 
 
-For this lab, we will be using the same dataset for the [customer analysis case study] we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
+For this lab, we will be using the same dataset for the customer analysis case study we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
 
 ### Instructions
 
