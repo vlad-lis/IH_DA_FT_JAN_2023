@@ -1193,8 +1193,6 @@ It is Friday!! 🥳😎✌️
 
 <li>Agile
 
-<li>Final Project Kickoff.
-
 <li>Final Project Presentation Example.
 
 <li>NLP
@@ -1224,7 +1222,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/NLP/NLP.ipynb">[Notebook] NLP</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/">[Notebook] NLP</a>
 <p>
 <br>
 <p>
