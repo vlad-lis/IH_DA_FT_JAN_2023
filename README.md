@@ -1166,6 +1166,12 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+  
+  <br>
+<p>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<p>
+<br>
    </td>
   </tr>
 </table>
@@ -1213,11 +1219,6 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1yfDidfVVYUlNzY_mbV7DtQaSrUkx-AKuRQB56tkzuyk/edit?usp=sharing">[Presentation] Agile/ Project Management</a>
 <p>
-<br>
-<p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
-<p>
-<br>
 <p>
 <a href="https://docs.google.com/presentation/d/1LwHs1TGLQW5F5dqVw5E9egv5eVUN8t5g79rLwvGRLf0/edit?usp=sharing">[Presentation] Natural Language Processing</a>
 <p>
