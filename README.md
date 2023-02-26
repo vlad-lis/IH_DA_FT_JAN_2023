@@ -1081,7 +1081,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparison</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dJcP7kXvI8qJ3iuPoj24k_ghSaNgnzylaj1EzQAzIhA/edit?usp=sharing">[Presentation] KNN</a>
 <p>
@@ -1222,7 +1222,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_JAN_2023/blob/main/Class_Materials/">[Notebook] NLP</a>
+<a href="">[Notebook] NLP</a>
 <p>
 <br>
 <p>
